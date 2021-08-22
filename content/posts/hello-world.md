@@ -34,9 +34,9 @@ bold, with **asterisks** or **underscores**. Combined emphasis with **asterisks
 and _underscores_**. Strikethrough uses two tildes. ~~Scratch this.~~
 
 ## 链接 Link
-[I’m a link](https://rhinoc.top)
+[I’m a link](/)
 
-I'm a [link](https://rhinoc.top) with text.
+I'm a [link](/) with text.
 
 ## 块引用 Blockquote
 > 我采了你的花，呵，世界！I plucked your flower, O world！  

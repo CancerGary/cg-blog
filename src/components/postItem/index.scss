@@ -58,6 +58,6 @@ $color_description: var(--color-description);
     }
 
     &:hover{
-        background: none;
+        background: var(--gradient-glass-hover);
     }
 }

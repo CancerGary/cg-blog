@@ -1,5 +1,5 @@
 // theme.js
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyles = createGlobalStyle`
   :root {
@@ -23,7 +23,8 @@ export const GlobalStyles = createGlobalStyle`
 
     --gradient-theme: ${({ theme }) => theme.gradient_theme};
     --gradient-glass: ${({ theme }) => theme.gradient_glass};
-    
+    --gradient-glass-hover: ${({ theme }) => theme.gradient_glass_hover};
+
     --border-glass: ${({ theme }) => theme.border_glass};
     --border-footer: ${({ theme }) => theme.border_footer};
     --border-cate: ${({ theme }) => theme.border_cate};
